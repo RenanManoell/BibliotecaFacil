@@ -1,3 +1,6 @@
+##Feito uma pequena coreção em um bug, quando apertava no livro fecha o app automaticamente.
+##Atualização feita dentro do build.gradle 
+
 # BibliotecaFácil
 BibliotecaFácil é um aplicativo simples de biblioteca virtual, onde os usuários podem explorar uma lista de livros, visualizar detalhes sobre cada livro, marcar seus favoritos e abrir os livros em formato EPUB para leitura. O aplicativo utiliza uma API JSON para obter informações sobre os livros.
 
